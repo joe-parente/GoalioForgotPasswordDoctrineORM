@@ -1,5 +1,5 @@
 {
-    "name": "goalio/goalio-forgotpassword-doctrine-orm",
+    "name": "joe-parente/goalio-forgotpassword-doctrine-orm",
     "description": "Doctrine2 ORM storage adapter for GoalioForgotPassword.",
     "type": "library",
     "keywords": [
