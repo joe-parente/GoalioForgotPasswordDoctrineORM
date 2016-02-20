@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "joe-parente/goalio-forgotpassword": "1.*",
+        "joe-parente/goalio-forgotpassword": "dev-master",
         "doctrine/doctrine-orm-module": "0.*"
     },
     "autoload": {
